@@ -1,0 +1,7 @@
+﻿.vs
+Library
+Logs
+obj
+*.csproj
+.vsconfig
+FSM - 2.sln
